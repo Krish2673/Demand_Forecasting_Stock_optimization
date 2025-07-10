@@ -1,0 +1,2102 @@
+[
+  {
+    "product_name": "Greek Yogurt",
+    "item_id": "FOODS_3_080",
+    "store_id": "CA_2",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 14.65,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 14.61,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 14.04,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 15.08,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 13.28,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 21.67,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 18.37,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 17.61,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 14.85,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 12.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 17.9,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 18.04,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 19.81,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 16.8,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 17.83,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 15.2,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 14.66,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 15.73,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 16.82,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 20.93,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 19.23,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 15.58,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 15.59,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 15.07,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 16.16,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 17.27,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 21.42,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 19.76,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Dark Chocolate Bar",
+    "item_id": "FOODS_3_252",
+    "store_id": "TX_2",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 44.35,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 40.9,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 40.64,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 45.15,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 51.52,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 87.41,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 75.71,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 52.16,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 41.56,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 48.4,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 48.22,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 51.92,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 90.64,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 73.2,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 51.76,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 43.63,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 43.73,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 48.59,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 60.92,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 80.48,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 73.55,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 49.32,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 46.27,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 46.36,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 51.18,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 63.45,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 82.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 75.93,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Oatmeal Choco-Chip Cookies",
+    "item_id": "FOODS_3_555",
+    "store_id": "CA_3",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 27.99,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 26.59,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 25.69,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 26.26,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 28.18,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 35.54,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 26.3,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 22.84,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 25.26,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 23.99,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 33.06,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 28.37,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 38.55,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 37.32,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 34.86,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 24.73,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 24.05,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 24.86,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 27.43,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 32.5,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 34.01,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 26.23,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 25.13,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 24.55,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 25.44,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 28.08,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 33.21,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 34.77,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Whole Grain Bread",
+    "item_id": "FOODS_3_586",
+    "store_id": "CA_2",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 34.79,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 34.18,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 34.83,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 35.49,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 39.1,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 52.98,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 48.69,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 31.25,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 33.3,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 39.12,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 35.36,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 42.01,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 50.82,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 52.41,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 38.74,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 32.88,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 33.69,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 34.53,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 40.28,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 48.49,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 47.99,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 34.11,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 33.84,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 34.88,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 35.97,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 41.95,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 50.4,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 50.13,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Sketchbook & Drawing Pencil Kit",
+    "item_id": "HOBBIES_1_074",
+    "store_id": "CA_3",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 2.44,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 2.24,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 1.94,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 1.81,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 4.82,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 2.14,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 1.3,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 1.22,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 2.08,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 2.76,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 0.83,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 3.58,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 2.17,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 1.97,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 2.81,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 2.12,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 1.88,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 1.8,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 2.44,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 3.04,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 2.52,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 2.41,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 2.27,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 2.03,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 1.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 2.58,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 3.18,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 2.64,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Watercolor Painting Set",
+    "item_id": "HOBBIES_1_254",
+    "store_id": "CA_3",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 13.37,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 13.18,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 11.78,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 13.21,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 12.68,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 2.88,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 17.14,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 5.35,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 12.71,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 3.96,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 8.69,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 8.53,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 14.5,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 25.14,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 10.1,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 12.79,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 11.53,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 13.1,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 12.95,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 13.31,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 15.87,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 13.27,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 13.19,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 11.9,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 13.43,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 13.22,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 13.5,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 15.97,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Portable Chess & Board Game Set",
+    "item_id": "HOBBIES_1_323",
+    "store_id": "TX_2",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 2.39,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 1.43,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 1.62,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 1.8,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 0.32,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 3.99,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 2.6,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 1.5,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 1.33,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": -0.0,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 2.34,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 3.57,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 3.97,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 3.96,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 1.36,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 1.37,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 1.59,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 1.8,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 2.46,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 3.19,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 3.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 2.41,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 1.49,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 1.73,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 1.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 2.61,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 3.34,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 4.09,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Advanced Lego Robotics Kit",
+    "item_id": "HOBBIES_1_337",
+    "store_id": "CA_3",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 1.9,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 1.5,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 1.37,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 2.03,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 3.41,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 2.21,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 4.17,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 1.48,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 1.16,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 1.91,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 5.43,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 3.27,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 2.78,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 2.97,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 2.37,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 1.23,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 1.21,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 1.97,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 2.06,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 2.75,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 2.77,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 1.86,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 1.58,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 1.58,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 2.35,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 2.43,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 3.12,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 3.12,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Soft Cotton Bath Towel",
+    "item_id": "HOUSEHOLD_1_072",
+    "store_id": "WI_2",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 3.1,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 2.82,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 3.54,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 3.94,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 4.25,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 5.55,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 1.87,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 2.99,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 2.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 4.7,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 5.31,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 7.62,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 10.55,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 2.55,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 3.75,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 2.85,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 3.52,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 3.88,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 6.08,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 5.53,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 3.5,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 3.04,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 2.72,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 3.41,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 3.8,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 6.04,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 5.54,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 3.56,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Aromatic Room Freshener",
+    "item_id": "HOUSEHOLD_1_118",
+    "store_id": "TX_3",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 9.22,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 7.44,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 5.75,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 5.32,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 9.2,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 2.74,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 11.0,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 9.35,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 6.5,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 1.45,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 1.46,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 8.86,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 5.76,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 9.14,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 8.72,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 5.72,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 4.08,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 3.72,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 4.96,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 8.02,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 9.52,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 7.2,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 5.55,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 4.01,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 3.74,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 5.06,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 8.21,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 9.78,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Multipurpose Cleaning Spray",
+    "item_id": "HOUSEHOLD_1_198",
+    "store_id": "CA_3",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 9.3,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 8.62,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 8.46,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 8.81,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 7.13,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 6.2,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 14.36,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 10.78,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 8.38,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 6.84,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 4.48,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 11.7,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 12.36,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 9.09,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 6.03,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 7.82,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 7.59,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 7.89,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 9.14,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 10.91,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 10.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 8.23,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 7.52,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 7.37,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 7.75,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 9.09,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 10.94,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 11.06,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  },
+  {
+    "product_name": "Eco-Friendly Dishwashing Liquid",
+    "item_id": "HOUSEHOLD_1_373",
+    "store_id": "TX_1",
+    "forecasts": [
+      {
+        "date": "2016-04-25",
+        "predicted_sales": 7.88,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-26",
+        "predicted_sales": 7.36,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-27",
+        "predicted_sales": 6.63,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-28",
+        "predicted_sales": 6.9,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-29",
+        "predicted_sales": 6.82,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-04-30",
+        "predicted_sales": 8.0,
+        "stock_alert": "\ud83d\udce6 Overstock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-01",
+        "predicted_sales": 9.76,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-02",
+        "predicted_sales": 10.2,
+        "stock_alert": "\u2705 OK",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-03",
+        "predicted_sales": 7.24,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-04",
+        "predicted_sales": 5.19,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-05",
+        "predicted_sales": 7.0,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-06",
+        "predicted_sales": 6.15,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-07",
+        "predicted_sales": 7.72,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-08",
+        "predicted_sales": 9.72,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": "\ud83c\udf89 Seasonal Spike"
+      },
+      {
+        "date": "2016-05-09",
+        "predicted_sales": 10.93,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-10",
+        "predicted_sales": 7.2,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-11",
+        "predicted_sales": 6.5,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-12",
+        "predicted_sales": 6.79,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-13",
+        "predicted_sales": 7.59,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-14",
+        "predicted_sales": 11.01,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-15",
+        "predicted_sales": 12.02,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-16",
+        "predicted_sales": 7.79,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-17",
+        "predicted_sales": 7.3,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-18",
+        "predicted_sales": 6.62,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-19",
+        "predicted_sales": 6.93,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-20",
+        "predicted_sales": 7.74,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-21",
+        "predicted_sales": 11.16,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      },
+      {
+        "date": "2016-05-22",
+        "predicted_sales": 12.18,
+        "stock_alert": "\u26a0\ufe0f Understock",
+        "seasonal_flag": ""
+      }
+    ]
+  }
+]
